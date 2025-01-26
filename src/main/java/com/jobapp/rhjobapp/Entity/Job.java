@@ -7,7 +7,7 @@ import jakarta.persistence.*;
 @Table (name ="RH_Job")
 public class Job {
     @Id
-    //hii yash
+    //hii yash how are you
     @GeneratedValue (strategy = GenerationType.IDENTITY)
     private Integer id;
 
