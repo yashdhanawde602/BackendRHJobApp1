@@ -11,7 +11,7 @@ import java.util.Optional;
 @RestController
 @CrossOrigin("http://localhost:4200/")
 public class JobC {
-//hii
+//hii yash
     @Autowired
     private JobS jobS;
     @PostMapping("/addjob")
